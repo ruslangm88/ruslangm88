@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning modern software engineering.
-- 👯 I’m looking to collaborate on a big project.
 - 💬 Ask me about my [skills](http://lattes.cnpq.br/5125508412921126).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ruslan-guerra-marzo/) | [Instagram](https://www.instagram.com/ruslan.guerra88/)
 - 😄 Pronouns: He/Him.
